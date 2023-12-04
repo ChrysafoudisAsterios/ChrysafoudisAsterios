@@ -13,7 +13,5 @@ ECE major in DUTh
 #### Socials:
 [instagram](https://www.instagram.com/chrysafoudisasteris/)
 [Linkedin](https://www.linkedin.com/in/asterios-chrysafoudis/)
-[Discord]()
-[Slack]()
 
 
