@@ -1,8 +1,8 @@
 # About Me:
 #### Education:
 ECE major in DUTh
-###### LANGUAGES:
 ---
+###### LANGUAGES:
 * C
 * C++
 * JAVA
@@ -11,7 +11,7 @@ ECE major in DUTh
 * MatLab
 ---
 #### Socials:
-[instagram](https://www.instagram.com/chrysafoudisasteris/)
+[instagram](https://www.instagram.com/chrysafoudisasteris/) <br>
 [Linkedin](https://www.linkedin.com/in/asterios-chrysafoudis/)
-
+---
 
