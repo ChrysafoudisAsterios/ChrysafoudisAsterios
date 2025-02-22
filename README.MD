@@ -5,9 +5,9 @@ ECE major in DUTh
 ###### LANGUAGES:
 * C
 * C++
-* JAVA
 * JAVASCRIPT
-* HTML
+* HTMl
+* CSS
 * MatLab
 ---
 #### Socials:
